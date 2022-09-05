@@ -30,7 +30,7 @@
         },
         {
           "abbreviation" : "AUB",
-          "prestige" : "83",
+          "prestige" : "84",
           "hexColor" : "#0C2340",
           "rival" : "ALA",
 
@@ -48,7 +48,7 @@
         },
         {
           "abbreviation" : "TENN",
-          "prestige" : "77",
+          "prestige" : "79",
           "hexColor" : "#FF8200",
           "rival" : "VAN",
 
@@ -66,7 +66,7 @@
         },
         {
           "abbreviation" : "MSST",
-          "prestige" : "76",
+          "prestige" : "78",
           "hexColor" : "#660000",
           "rival" : "MISS",
 
@@ -75,7 +75,7 @@
         },
         {
           "abbreviation" : "ARK",
-          "prestige" : "81",
+          "prestige" : "82",
           "hexColor" : "#9D2235",
           "rival" : "MIZ",
 
@@ -84,7 +84,7 @@
         },
         {
           "abbreviation" : "MISS",
-          "prestige" : "84",
+          "prestige" : "85",
           "hexColor" : "#14213D",
           "rival" : "MSST",
 
@@ -93,7 +93,7 @@
         },
         {
           "abbreviation" : "FLA",
-          "prestige" : "83",
+          "prestige" : "81",
           "hexColor" : "#0021A5",
           "rival" : "UGA",
 
@@ -102,7 +102,7 @@
         },
         {
           "abbreviation" : "MIZ",
-          "prestige" : "79",
+          "prestige" : "77",
           "hexColor" : "#F1B82D",
           "rival" : "ARK",
 
@@ -127,7 +127,7 @@
         },
         {
           "abbreviation" : "OSU",
-          "prestige" : "93",
+          "prestige" : "94",
           "hexColor" : "#BB0000",
           "rival" : "MICH",
 
@@ -145,7 +145,7 @@
         },
         {
           "abbreviation" : "PSU",
-          "prestige" : "84",
+          "prestige" : "85",
           "hexColor" : "#041E42",
           "rival" : "MSU",
 
@@ -172,7 +172,7 @@
         },
         {
           "abbreviation" : "MSU",
-          "prestige" : "87",
+          "prestige" : "88",
           "hexColor" : "#18453B",
           "rival" : "PSU",
 
@@ -181,7 +181,7 @@
         },
         {
           "abbreviation" : "ILL",
-          "prestige" : "76",
+          "prestige" : "78",
           "hexColor" : "#13294B",
           "rival" : "NU",
 
@@ -199,7 +199,7 @@
         },
         {
           "abbreviation" : "IOWA",
-          "prestige" : "85",
+          "prestige" : "86",
           "hexColor" : "#FFCD00",
           "rival" : "NEB",
 
@@ -224,7 +224,7 @@
         },
         {
           "abbreviation" : "TEX",
-          "prestige" : "78",
+          "prestige" : "76",
           "hexColor" : "#BF5700",
           "rival" : "TTU",
 
@@ -278,7 +278,7 @@
         },
         {
           "abbreviation" : "OU",
-          "prestige" : "87",
+          "prestige" : "90",
           "hexColor" : "#841617",
           "rival" : "OKST",
 
@@ -287,7 +287,7 @@
         },
         {
           "abbreviation" : "OKST",
-          "prestige" : "77",
+          "prestige" : "82",
           "hexColor" : "#FF7300",
           "rival" : "OU",
 
@@ -296,7 +296,7 @@
         },
         {
           "abbreviation" : "BAY",
-          "prestige" : "86",
+          "prestige" : "87",
           "hexColor" : "#154734",
           "rival" : "TCU",
 
@@ -321,7 +321,7 @@
         },
         {
           "abbreviation" : "ORE",
-          "prestige" : "84",
+          "prestige" : "87",
           "hexColor" : "#154733",
           "rival" : "ORST",
 
@@ -339,7 +339,7 @@
         },
         {
           "abbreviation" : "USC",
-          "prestige" : "77",
+          "prestige" : "81",
           "hexColor" : "#990000",
           "rival" : "UCLA",
 
@@ -366,7 +366,7 @@
         },
         {
           "abbreviation" : "COLO",
-          "prestige" : "72",
+          "prestige" : "76",
           "hexColor" : "#CFB87C",
           "rival" : "UTAH",
 
@@ -393,7 +393,7 @@
         },
         {
           "abbreviation" : "UTAH",
-          "prestige" : "85",
+          "prestige" : "88",
           "hexColor" : "#CC0000",
           "rival" : "COLO",
 
@@ -409,7 +409,7 @@
       "confTeams" : [
         {
           "abbreviation" : "CLEM",
-          "prestige" : "91",
+          "prestige" : "93",
           "hexColor" : "#F56600",
           "rival" : "GT",
 
@@ -418,7 +418,7 @@
         },
         {
           "abbreviation" : "MIA",
-          "prestige" : "83",
+          "prestige" : "85",
           "hexColor" : "#005030",
           "rival" : "FSU",
 
@@ -427,7 +427,7 @@
         },
         {
           "abbreviation" : "GT",
-          "prestige" : "77",
+          "prestige" : "74",
           "hexColor" : "#A28D5B",
           "rival" : "CLEM",
 
@@ -454,7 +454,7 @@
         },
         {
           "abbreviation" : "UNC",
-          "prestige" : "75",
+          "prestige" : "74",
           "hexColor" : "#7BAFD4",
           "rival" : "DUKE",
 
@@ -506,7 +506,7 @@
       "confTeams" : [
         {
           "abbreviation" : "HOU",
-          "prestige" : "78",
+          "prestige" : "79",
           "hexColor" : "#C8102E",
           "rival" : "SMU",
 
@@ -515,7 +515,7 @@
         },
         {
           "abbreviation" : "CIN",
-          "prestige" : "89",
+          "prestige" : "87",
           "hexColor" : "#E00122",
           "rival" : "MEM",
 
