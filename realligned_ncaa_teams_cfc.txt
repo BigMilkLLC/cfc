@@ -111,7 +111,7 @@
         }
       ],
       "confFullName" : "South",
-      "confPrestige" : "",
+      "confPrestige" : "77",
       "confName" : "SOUTH"
     },
     {
@@ -208,7 +208,7 @@
         }
       ],
       "confFullName" : "Midwest",
-      "confPrestige" : "",
+      "confPrestige" : "79",
       "confName" : "MIDW"
     },
     {
@@ -305,7 +305,7 @@
         }
       ],
       "confFullName" : "North",
-      "confPrestige" : "",
+      "confPrestige" : "86",
       "confName" : "NORTH"
     },
     {
@@ -402,7 +402,7 @@
         }
       ],
       "confFullName" : "Southeast",
-      "confPrestige" : "",
+      "confPrestige" : "81",
       "confName" : "SEAST",
     },
     {
@@ -499,7 +499,7 @@
         }
       ],
       "confFullName" : "Southwest",
-      "confPrestige" : "",
+      "confPrestige" : "67",
       "confName" : "SWEST"
     },
     {
@@ -596,7 +596,7 @@
         }
       ],
       "confFullName" : "Pacific",
-      "confPrestige" : "",
+      "confPrestige" : "72",
       "confName" : "PACIF",
     },
     {
@@ -693,7 +693,7 @@
         }
       ],
       "confFullName" : "Northeast",
-      "confPrestige" : "",
+      "confPrestige" : "59",
       "confName" : "NEAST",
     },
     {
@@ -790,7 +790,7 @@
         }
       ],
       "confFullName" : "Gulf",
-      "confPrestige" : "",
+      "confPrestige" : "78",
       "confName" : "GULF"
     },
     {
@@ -887,7 +887,7 @@
         }
       ],
       "confFullName" : "Atlantic",
-      "confPrestige" : "",
+      "confPrestige" : "80",
       "confName" : "ATLC"
     },
     {
@@ -984,7 +984,7 @@
         }
       ],
       "confFullName" : "Colonial",
-      "confPrestige" : "",
+      "confPrestige" : "74",
       "confName" : "COLN"
     },
     {
@@ -1081,7 +1081,7 @@
         }
       ],
       "confFullName" : "Plains",
-      "confPrestige" : "",
+      "confPrestige" : "66",
       "confName" : "PLAIN"
     },
     {
@@ -1178,7 +1178,7 @@
         }
       ],
       "confFullName" : "Mountain",
-      "confPrestige" : "",
+      "confPrestige" : "59",
       "confName" : "MOUNT"
     }
   ],
